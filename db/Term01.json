@@ -1,0 +1,156 @@
+{
+  "std01": [
+    {
+      "id": "01418141",
+      "nameTH": "ทรัพย์สินทางปัญญาและจรรยาบรรณวิชาชีพ",
+      "nameENG": "Intellectual Properties and Professional Ethics",
+      "credit": "3 หน่วยกิต",
+      "GPA": "A",
+      "yr": "ภาคต้น 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "01418111",
+      "nameTH": "วิทยาการคอมพิวเตอร์เบื้องต้น",
+      "nameENG": "Introduction to Computer Science",
+      "credit": "2 หน่วยกิต",
+      "GPA": "A",
+      "yr": "ภาคต้น 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "01417111",
+      "nameTH": "แคลคูลัส I",
+      "nameENG": "Calculus I",
+      "credit": "3 หน่วยกิต",
+      "GPA": "A",
+      "yr": "ภาคต้น 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "02999144",
+      "nameTH": "ทักษะชีวิตการเป็นนิสิตมหาวิทยาลัย",
+      "nameENG": "Life Skill for Undergraduate Student",
+      "credit": "3 หน่วยกิต",
+      "GPA": "A",
+      "yr": "ภาคต้น 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "01355101",
+      "nameTH": "ภาษาอังกฤษในชีวิตประจำวัน",
+      "nameENG": "English for Everyday Life",
+      "credit": "3 หน่วยกิต",
+      "GPA": "B +",
+      "yr": "ภาคต้น 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "01999021",
+      "nameTH": "ภาษาไทยเพื่อการสื่อสาร",
+      "nameENG": "Thai Language for Communication",
+      "credit": "3 หน่วยกิต",
+      "GPA": "B +",
+      "yr": "ภาคต้น 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "01418112",
+      "nameTH": "แนวคิดการโปรแกรมเบื้องต้น",
+      "nameENG": "Fundamental Programming Concepts",
+      "credit": "3 หน่วยกิต",
+      "GPA": "A",
+      "yr": "ภาคต้น 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "01999111",
+      "nameTH": "ศาสตร์แห่งแผ่นดิน",
+      "nameENG": "Knowledge of the Land",
+      "credit": "2 หน่วยกิต",
+      "GPA": "A",
+      "yr": "ภาคต้น 2565",
+      "isshow": false,
+      "isRemove": false
+    }
+  ],
+  "std02": [
+    {
+      "id": "01175118",
+      "nameTH": "แชร์บอลเพื่อสุขภาพ",
+      "nameENG": "Chair Ball for Health",
+      "credit": "1 หน่วยกิต",
+      "GPA": "A",
+      "yr": "ภาคปลาย 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "03600014",
+      "nameTH": "การแก้ปัญหาเชิงสร้างสรรค์และทักษะการคิดเชิงวิพากษ์",
+      "nameENG": "Creative Problem Solving and Critical Thinking Skills",
+      "credit": "3 หน่วยกิต",
+      "GPA": "A",
+      "yr": "ภาคปลาย 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "01355102",
+      "nameTH": "ภาษาอังกฤษในมหาวิทยาลัย",
+      "nameENG": "English for University Life",
+      "credit": "3 หน่วยกิต",
+      "GPA": "B",
+      "yr": "ภาคปลาย 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "03600012",
+      "nameTH": "เทคโนโลยีสีเขียว",
+      "nameENG": "Green Technology",
+      "credit": "3 หน่วยกิต",
+      "GPA": "B",
+      "yr": "ภาคปลาย 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "01418113",
+      "nameTH": "การโปรแกรมคอมพิวเตอร์",
+      "nameENG": "Computer Programming",
+      "credit": "3 หน่วยกิต",
+      "GPA": "A",
+      "yr": "ภาคปลาย 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "01418132",
+      "nameTH": "หลักมูลการคณนา",
+      "nameENG": "Fundamentals of Computing",
+      "credit": "3 หน่วยกิต",
+      "GPA": "A",
+      "yr": "ภาคปลาย 2565",
+      "isshow": false,
+      "isRemove": false
+    },
+    {
+      "id": "01417322",
+      "nameTH": "พีชคณิตเชิงเส้นพื้นฐาน",
+      "nameENG": "Basic Linear Algebra",
+      "credit": "3 หน่วยกิต",
+      "GPA": "A",
+      "yr": "ภาคปลาย 2565",
+      "isshow": false,
+      "isRemove": false
+    }
+  ]
+}
